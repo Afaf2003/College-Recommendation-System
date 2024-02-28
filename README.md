@@ -59,12 +59,5 @@ python app.py
 
 Contributions are welcome! Please feel free to open an issue or submit a pull request for any improvements or feature additions.
 
-## Contact
 
-For any inquiries or feedback, please contact:
-- **Your Name**
-- **Your Email Address**
-- **Your LinkedIn Profile (Optional)**
-```
 
-Make sure to replace the placeholders (`your-username`, `Demo Link`, `Your Name`, `Your Email Address`, and `Your LinkedIn Profile`) with the appropriate details specific to your project and contact information. Additionally, you may include actual screenshots in the `screenshots` directory and update the links accordingly.
